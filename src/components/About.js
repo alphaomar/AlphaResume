@@ -11,9 +11,9 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hi, My Name Is Rohima Akther everyone calls me Amrin. I am a
-            Frontend Developer. I build beautifull websites with React and
-            Tailwind CSS.
+            Hi, My Name Is Alpha Onaer leigh everyone calls me Omar. I am a
+            Web  Developer. I build beautifull websites with React and
+            Tailwind CSS, fastapi, and AI and ML.
           </p>
           <p className="pb-5">
             I am proficient in Frontend skills like React.js, Redux, Redux Tool
